@@ -1,7 +1,7 @@
 name: pain_browser
-description: Pain Browser - Trình duyệt tím đen
+description: Pain Browser - Trinh duyet web don gian
 publish_to: 'none'
-version: 1.6.5+1
+version: 2.2.0+3
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
@@ -11,6 +11,8 @@ dependencies:
     sdk: flutter
   webview_flutter: ^4.7.0
   shared_preferences: ^2.2.3
+  share_plus: ^9.0.0
+  url_launcher: ^6.2.5
   cupertino_icons: ^1.0.6
 
 dev_dependencies:
